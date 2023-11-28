@@ -1,7 +1,7 @@
 A beautiful ListLoadMore easy to use and customize.
 
 ###### List Load More
-![DEMO](https://github.com/tuannvm2109/list_load_more/blob/master/assets/list_load_more.gif)
+![DEMO](https://github.com/tuannvm2109/list_load_more/raw/master/assets/list_load_more.gif)
 
 ## Usage
 

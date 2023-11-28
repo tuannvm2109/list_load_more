@@ -1,6 +1,6 @@
 name: list_load_more
 description: A lazy loading ListView easy to implementation, easy to customize with your own loading animation and support some feature like add, remove single item and focus to item
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/tuannvm2109/list_load_more
 
 environment:
